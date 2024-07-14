@@ -1,0 +1,37 @@
+Test Set Classification Report:
+                             precision    recall  f1-score   support
+
+           Airport Services       1.00      1.00      1.00        90
+           Baggage Policies       0.98      0.99      0.98       165
+            Business Travel       0.99      0.99      0.99        87
+          COVID-19 Policies       0.96      0.96      0.96       127
+        Check-in Procedures       0.99      0.98      0.98       146
+    Child and Infant Travel       1.00      0.98      0.99       115
+    Complaints and Feedback       1.00      0.99      0.99       203
+    Customer Account Issues       0.99      0.99      0.99       152
+         Duty-Free Shopping       1.00      1.00      1.00       119
+            Flight Bookings       0.93      0.92      0.93       139
+             Flight Changes       0.98      0.97      0.98       153
+              Flight Status       0.96      0.99      0.98       185
+       Frequent Flyer Miles       0.96      0.95      0.95        94
+             Group Bookings       1.00      0.99      0.99       141
+         In-flight Services       1.00      0.98      0.99       128
+             Lost and Found       0.98      0.98      0.98       168
+           Loyalty Programs       0.96      0.98      0.97       105
+          Mobile App Issues       0.99      0.99      0.99       165
+ Partnerships and Alliances       1.00      0.96      0.98        80
+             Payment Issues       0.99      1.00      0.99       173
+                 Pet Travel       1.00      0.99      0.99        99
+   Promotions and Discounts       0.97      1.00      0.98       123
+   Refunds and Compensation       0.97      0.97      0.97       148
+             Seat Selection       0.99      1.00      1.00       136
+         Special Assistance       0.98      0.98      0.98       130
+       Travel Documentation       0.99      0.99      0.99       151
+           Travel Insurance       1.00      1.00      1.00       110
+        Travel Restrictions       0.96      0.97      0.96       133
+            Travel Vouchers       0.99      1.00      1.00       141
+Weather-related Disruptions       1.00      0.98      0.99        94
+
+                   accuracy                           0.98      4000
+                  macro avg       0.98      0.98      0.98      4000
+               weighted avg       0.98      0.98      0.98      4000

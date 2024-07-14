@@ -1,0 +1,9 @@
+objective: multiclass
+num_class: 30
+metric: multi_logloss
+boosting_type: gbdt
+learning_rate: 0.05
+max_depth: 15
+n_estimators: 200
+num_leaves: 31
+verbose: -1
