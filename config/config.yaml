@@ -1,0 +1,10 @@
+train_data_file_path: '../data/customer_queries_data.csv'
+inference_data_file_path: '../data/customer_queries_test.csv'
+output_data_file_path: '../data/inference_output.csv'
+
+label_encoder_path:  '../model/label_encoder.pkl'
+vectorizer_path:  '../model/vectorizer.pkl'
+model_path: '../model/lgbm_model.pkl'
+model_parameters_path: '../model/parameters.yaml'
+report_path: '../model/classification_report.txt'
+confusion_matrix_path: '../model/confusion_matrix.png'
